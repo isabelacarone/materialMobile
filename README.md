@@ -6,5 +6,6 @@
 - **Quarta semana, 27/08**: Tela de login com confirmação de login e senha; feita na aula
 - ***Quinta semana, 03/09***: Lista de tarefas com duas páginas; feita na aula
 - ***Sexta semana, 10/09***: Tela com botão que ao ser ativado leva para outra página
+- ***Sexta semana pt2, 10/09***: Tela semelhante a de plataformas de compra online, contém api (o link está no app.js)
 
 
