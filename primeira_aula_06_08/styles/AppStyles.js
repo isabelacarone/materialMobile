@@ -1,4 +1,9 @@
 import { StyleSheet } from 'react-native';
+// precisamos importar o StyleSheet toda vez; essa parte de import do react é padronizado, tudo que usaremos deve ser declarado aqui 
+
+// usamos const já que ela não pode ter seu valor alterado 
+
+// a questão de styles fica bem parecida do que a temos no css
 
 const AppStyles = StyleSheet.create({
   container: {
